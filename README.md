@@ -1,4 +1,4 @@
-# About Me🙌
+# About Me🤘
 ## 🚀Introduction
 안녕하세요! 1년차 백엔드 개발자 전익현입니다.
 
