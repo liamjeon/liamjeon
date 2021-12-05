@@ -8,7 +8,7 @@
 - Github : https://github.com/liamjeon
 - Email : ikhyun703@gmail.com
 
-## 🔧Skills
+## 🛠Skills
 ### Backend
 - Node.js
 - Express
