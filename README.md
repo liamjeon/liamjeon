@@ -5,8 +5,8 @@
 
 ## �📎Contact Channel
 - Email : ikhyun703@gmail.com
-- Github : https://github.com/liamjeon
 - Blog : https://velog.io/@liam_jeon
+- Github : https://github.com/liamjeon
 
 ## 🔧Skills
 ### Backend
@@ -20,7 +20,6 @@
 
 ## Personal Experience & Projects
 ### 항해99 부트캠프 참여(2021.11.1 ~ 현재)
-- Node.js를 주특기로 3개월 간의 부트캠프를 진행중입니다.
 
 ### 📚Mini project
 - Node.js 게시판 제작
@@ -32,9 +31,7 @@
 
 ## 📝Education
 - 한양대학교 전자시스템공학과(2011.03~2018.02)
-- 항해99 부트캠프
-
-## 💡Goals
+- 항해99 부트캠프 - Node.js를 주특기로 3개월 간의 부트캠프를 진행중입니다.
 
 <!--
 **liamjeon/liamjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
