@@ -23,7 +23,7 @@
 ## 🔥Personal Experience & Projects
 ### 항해99 부트캠프 참여(2021.11.1 ~ 현재)
 
-### 📚Mini project
+### My projects
 - Node.js 게시판 제작
 - Tweet 클론 제작
 
