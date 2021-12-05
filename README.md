@@ -28,9 +28,9 @@
 
 ## Work Experience
 - 고영테크놀러지(2018.1 ~ 2020.6)
-- - 반도체 검사 장비 해외 기술지원 담당
+-- 반도체 검사 장비 해외 기술지원 담당
 - 뷰웍스(2020.6 ~ 현재)
-- - 산업용카메라 해외 기술지원 담당
+-- 산업용카메라 해외 기술지원 담당
 
 <!--
 **liamjeon/liamjeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
