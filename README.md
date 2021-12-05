@@ -4,9 +4,9 @@
 항해99 부트캠프를 진행중입니다. (2021.11.01 ~ Now)
 
 ## 👋Contact Channel
-- Email : ikhyun703@gmail.com
 - Blog : https://velog.io/@liam_jeon
 - Github : https://github.com/liamjeon
+- Email : ikhyun703@gmail.com
 
 ## 🔧Skills
 ### Backend
